@@ -3,7 +3,6 @@ from random import randint
 
 root = Tk()
 root.title('Codemy.com - Learn To Code!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("400x400")
 
 

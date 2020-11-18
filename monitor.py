@@ -3,7 +3,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 
 width = root.winfo_screenwidth()
 height = (root.winfo_screenheight() - 70)

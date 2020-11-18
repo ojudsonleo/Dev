@@ -4,7 +4,6 @@ from tkinter import ttk, filedialog
 
 root = Tk()
 root.title('Codemy.com - Excel To Treeview')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("700x500")
 
 # Create frame

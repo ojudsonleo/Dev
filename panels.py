@@ -4,7 +4,6 @@ from tkinter import *
 root = Tk()
 root.title("Hello World!")
 root.geometry("400x400")
-root.iconbitmap('c:/guis/codemy.ico')
 
 # Panels
 panel_1 = PanedWindow(bd=4, relief="raised", bg="red")

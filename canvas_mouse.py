@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("800x600")
 
 w = 600
@@ -16,8 +15,7 @@ my_canvas.pack(pady=20)
 
 
 # Add Image To Canvas
-img = PhotoImage(file="c:/gui/images/me.png")
-my_image = my_canvas.create_image(260,125, anchor=NW, image=img)
+my_image = my_canvas.create_image(260,125, anchor=NW)
 
 def move(e):
 	#e.x

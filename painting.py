@@ -9,7 +9,6 @@ from tkinter import messagebox
 
 root = Tk()
 root.title('Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("800x800")
 
 w = 600

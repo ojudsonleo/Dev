@@ -4,7 +4,6 @@ from tkinter import filedialog
 
 root = Tk()
 root.title('Codemy.com Image Viewer')
-root.iconbitmap('c:/gui/codemy.ico')
 
 
 

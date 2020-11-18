@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - Keys Method')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x550")
 
 my_label = Label(root, text="My Label", font=("Helvetica", 18))

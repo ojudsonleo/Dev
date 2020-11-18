@@ -4,7 +4,6 @@ from tkinter import messagebox
 
 root = Tk()
 root.title('Learn To Code at Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 
 # showinfo, showwarning, showerror, askquestion, askokcancel, askyesno
 

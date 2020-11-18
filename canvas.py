@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - Canvas')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x500")
 
 

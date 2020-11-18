@@ -6,7 +6,6 @@ import pyttsx3
 root = Tk()
 root.title("Codemy.com")
 root.geometry("800x500")
-root.iconbitmap('c:/gui/codemy.ico')
 
 
 def talk():

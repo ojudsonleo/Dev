@@ -3,7 +3,6 @@ from namer import nameit
 
 root = Tk()
 root.title('Codemy.com - Other Files')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x350")
 
 

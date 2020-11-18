@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - One Sided Padding')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x550")
 root.config(bg="blue")
 

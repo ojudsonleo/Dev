@@ -3,7 +3,6 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Learn To Code at Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 
 #r = IntVar()
 #r.set("2")

@@ -5,7 +5,6 @@ from tkinter import messagebox
 
 root = Tk()
 root.title('Codemy.com - Match Game!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("460x450")
 
 

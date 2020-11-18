@@ -4,7 +4,6 @@ import os
 
 root = Tk()
 root.title('Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("600x400")
 
 def open_program():

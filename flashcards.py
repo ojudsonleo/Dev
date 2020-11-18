@@ -6,7 +6,6 @@ import random
 
 root = Tk()
 root.title('Flashcards!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x600")
 
 # Create flashcard randomization

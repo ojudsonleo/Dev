@@ -3,7 +3,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("400x400")
 
 

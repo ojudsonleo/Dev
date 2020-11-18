@@ -7,7 +7,6 @@ import tkinter.ttk as ttk
 
 root = Tk()
 root.title('Codemy.com MP3 Player')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x400")
 
 # Initialze Pygame Mixer

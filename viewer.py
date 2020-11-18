@@ -3,7 +3,6 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Codemy.com Image Viewer')
-root.iconbitmap('c:/gui/codemy.ico')
 
 
 my_img1 = ImageTk.PhotoImage(Image.open("images/aspen.png"))

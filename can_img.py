@@ -10,7 +10,6 @@ canvas = Canvas(root,
            height=canvas_height, bg="white")
 canvas.pack()
 
-img = PhotoImage(file="images/aspen.png")
-canvas.create_image(0,0, anchor=NW, image=img)
+canvas.create_image(0,0, anchor=NW)
 
 mainloop()

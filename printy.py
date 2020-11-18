@@ -6,7 +6,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - TextPad!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x500")
 
 #win32api.ShellExecute(0, "print", "sample.txt", None, ".", 0)

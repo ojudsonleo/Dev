@@ -6,7 +6,6 @@ from tkinter import ttk
 
 root = Tk()
 root.title('Codemy.com - Learn To Code!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("400x600")
 
 # Connect to MySQL

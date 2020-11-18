@@ -4,7 +4,6 @@ from tkinter import ttk
 root = Tk()
 root.title("Notebook Tabs")
 root.geometry("500x500")
-root.iconbitmap('c:/guis/codemy.ico')
 
 
 

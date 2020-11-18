@@ -3,7 +3,6 @@ from tkinter import *
 
 root = Tk()
 root.title('Codemy.com - Custom Messages Boxes')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("300x300")
 
 def choice(option):

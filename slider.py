@@ -4,7 +4,6 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Codemy.com Image Viewer')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("400x400")
 
 vertical = Scale(root, from_=0, to=200)

@@ -3,7 +3,6 @@ from tkinter import *
 root = Tk()
 root.title("Entry Boxes")
 root.geometry("700x500")
-root.iconbitmap('c:/guis/exe/codemy.ico')
 
 my_entries = []
 

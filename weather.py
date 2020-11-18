@@ -6,7 +6,6 @@ import json
 
 root = Tk()
 root.title('Codemy.com - Learn To Code!')
-root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("600x100")
 
 #Create Zipcode Lookup Function
