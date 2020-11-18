@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 2" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="/home/obedotto/judsonleo/library/lib1/l1.py" status="error" test="l1" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "/opt/eclipseneon/plugins/org.python.pydev.core_6.3.3.201805051638/pysrc/_pydev_runfiles/pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "/home/obedotto/judsonleo/library/lib1/l1.py", line 340, in <module>
+    Library()
+TypeError: Library() takes exactly 1 argument (0 given)
+ERROR: Module: l1 could not be imported (file: /home/obedotto/judsonleo/library/lib1/l1.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="lib1 lib1 [pyunit run]"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

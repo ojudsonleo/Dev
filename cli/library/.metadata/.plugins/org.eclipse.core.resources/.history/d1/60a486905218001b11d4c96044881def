@@ -1,0 +1,8 @@
+from judson import *
+#newPerson = library.person('person', 18)
+# print(newPerson.isChild(7))
+# print(newPerson.execute_storage())
+# print(newPerson.population)
+# DOG = library.Dog("leo", 11)
+# DOG.speak()
+print(c)

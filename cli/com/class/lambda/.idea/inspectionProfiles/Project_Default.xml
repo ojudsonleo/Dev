@@ -1,0 +1,96 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="width" />
+            <item index="1" class="java.lang.String" itemvalue="height" />
+            <item index="2" class="java.lang.String" itemvalue="y" />
+            <item index="3" class="java.lang.String" itemvalue="x" />
+            <item index="4" class="java.lang.String" itemvalue="v-bind:class" />
+            <item index="5" class="java.lang.String" itemvalue="@mousemove" />
+            <item index="6" class="java.lang.String" itemvalue="@click" />
+            <item index="7" class="java.lang.String" itemvalue="@change" />
+            <item index="8" class="java.lang.String" itemvalue="ng-click" />
+            <item index="9" class="java.lang.String" itemvalue="cm-not-content" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="25">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="--left" />
+            <item index="7" class="java.lang.String" itemvalue="tutorial" />
+            <item index="8" class="java.lang.String" itemvalue="codealong" />
+            <item index="9" class="java.lang.String" itemvalue="here" />
+            <item index="10" class="java.lang.String" itemvalue="https" />
+            <item index="11" class="java.lang.String" itemvalue="fcpw5i_2iyu" />
+            <item index="12" class="java.lang.String" itemvalue="lig" />
+            <item index="13" class="java.lang.String" itemvalue="gf" />
+            <item index="14" class="java.lang.String" itemvalue="app-budget-item-list" />
+            <item index="15" class="java.lang.String" itemvalue="a-scene" />
+            <item index="16" class="java.lang.String" itemvalue="a-sphere" />
+            <item index="17" class="java.lang.String" itemvalue="a-entity" />
+            <item index="18" class="java.lang.String" itemvalue="app-root" />
+            <item index="19" class="java.lang.String" itemvalue="terminal" />
+            <item index="20" class="java.lang.String" itemvalue="clipboard-copy" />
+            <item index="21" class="java.lang.String" itemvalue="mat-toolbar-row" />
+            <item index="22" class="java.lang.String" itemvalue="mat-toolbar" />
+            <item index="23" class="java.lang.String" itemvalue="mat-icon" />
+            <item index="24" class="java.lang.String" itemvalue="mat-menu" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E265" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="jobs2.textarea" />
+          <option value="templates.textarea2" />
+          <option value="textarea" />
+          <option value="tracks" />
+          <option value="track" />
+          <option value="app.app.schema.users" />
+          <option value="app.users.schema.CreateUser.Field" />
+          <option value="app.app.urls.views" />
+          <option value="users" />
+          <option value="user" />
+          <option value="app.tracks.models.Track.objects" />
+          <option value="library.Point" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TypeScriptSmartCast" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
